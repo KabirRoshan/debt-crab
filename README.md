@@ -1,4 +1,4 @@
-# debt-crab
+# Debt Crab
 A game created for the Manchester Game Jam by Kabir Roshan.
 
 ## Overview
